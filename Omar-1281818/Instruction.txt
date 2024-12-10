@@ -1,0 +1,11 @@
+mongodb: https://www.mongodb.com/products/platform/atlas-database
+
+email: md.omarfaruk9475@gmail.com
+pass: omarvai0195
+
+Select Database & then browse collection
+Admin login
+username: admin
+pass: 1234
+
+localhost:7039
